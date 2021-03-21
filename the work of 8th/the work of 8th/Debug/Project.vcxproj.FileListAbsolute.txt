@@ -1,0 +1,4 @@
+F:\assembly_language\Project32_VS2017\Project32_VS2017\Debug\Project.exe
+F:\assembly_language\Project32_VS2017\Project32_VS2017\Debug\Project.pdb
+F:\assembly_language\the work of 7th\the work of 7th\Debug\Project.exe
+F:\assembly_language\the work of 8th\the work of 8th\Debug\Project.exe
